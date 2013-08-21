@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>{$title}</title> 
+<link rel='stylesheet' type='text/css' href='../Public/css/style.css'>
+</head> 
+<body> 
+<div id="header">
+<div id="innerHeader">
+  <div id="blogLogo"></div>
+  <div class="blog-header">
+    <div class="blog-title"><a href="#">留言板</a></div>
+    <div class="blog-desc">使用ThinkPHP实现的留言板</div>
+  </div>
+  <div id="menu">
+    <ul>
+    <li><a href="{:url('','book')}">留言列表</a></li>
+    <li><a href="{:url('add','book')}">添加留言</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+<div id="mainWrapper">
+	<div id="content" class="content">
+		<div id="innerContent">		  
+		  	<div><H4 style="color:#FF3300"><strong>添加留言</strong></H4>
+			<form method="post" name="addone" action="save">
+				<div> 姓名：
+				  <label>
+				  <input name="name" type="text" class="text" id="name" size="40">
+				  </label>
+				</div><hr>
+				<div> 性别：
+				  <input name="sex" type="text" class="text" id="sex" size="40">
+				</div><hr>
+				<div> 邮件：
+				  <input name="email" type="text" class="text" id="email" size="40">
+				</div><hr>
+				<div> 网站： 
+				  <input name="http" type="text" class="text" id="http" size="40">
+				</div><hr>
+				<div>留言：
+				  <label>
+				  <textarea name="detail" cols="60" rows="5" id="detail"></textarea>
+				  </label>
+				</div><hr>
+				<div><input name="submit" type="submit" id="submit" value="提交">
+				</div>
+				<hr>
+			</form>
+		 	</div>		
+			<div class="article-bottom"></div>
+		</div> 
+	</div>
+</div>
+<div id="footer" class="footer" >
+	<div id="innerFooter">Powered by ThinkPHP {$Think.version} </div>
+</div>
+</BODY>
+</HTML>

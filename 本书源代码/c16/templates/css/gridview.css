@@ -1,0 +1,102 @@
+	.gvIIIContainer{
+		width:629px;
+		position:fixed;
+		background:#000;
+		padding:10px 0 10px 10px;
+		border:10px solid #fff;
+	}
+	.gvIIIContainer .gvIIIImgContainer{
+		width:619px;
+		height:386px;
+		position:relative;
+		overflow:hidden;
+		margin-bottom:10px;
+	}
+	
+	.gvIIIContainer .gvIIIImgTop{
+		position:absolute;
+		width:619px;
+		height:193px;
+		top:0;
+		left:0;
+		background:#cccc66;
+		overflow:hidden;
+	}
+	
+	.gvIIIContainer .gvIIIImgBot{
+		position:absolute;
+		width:619px;
+		height:193px;
+		top:193px;
+		left:0;
+		background:#CCCC66;
+		overflow:hidden;
+	}
+
+	.gvIIIContainer .gvIIIImgContainer .gvIIILoader{
+		position:absolute;
+		top:0;
+		left:0;
+		background:url(../images/ajax-loader.gif) no-repeat center center;
+		width:619px;
+		height:385px;
+		display:none;
+		z-index:16 !important;
+	}
+	.gvIIIContainer .gvIIIHolder{
+		position:relative;
+		height:207px;
+		width:619px;
+		overflow:auto;
+	}
+	.gvIIIContainer .gvIIIHolder .gvIIIArrow{
+	/*
+		background:url(../images/arrow.png);
+		width:20px;
+		height:28px;
+		position:absolute;
+		margin-left:-15px;
+		margin-top:-28px;
+		z-index:99;
+	*/
+	}
+	.gvIIIContainer .gvIIIHolder .gvIIIItem{
+		float:left;
+		height:55px;
+		width:72px;
+		border:5px solid #fff;
+		margin:2px;
+		position:relative;
+	}
+	.gvIIIContainer .gvIIIHolder .gvIIIItem .gvIIIFlash{
+		background:#fff;
+		position:absolute;
+		top:0;
+		left:0;
+		height:55px;
+		width:72px;
+		cursor:pointer;
+	}
+	.gvIIIContainer .gvIIIHolder .gvIIIItem img{
+		position:absolute;
+		top:0;
+		left:0;
+		padding:0;
+		margin:0;
+		margin-left:0;
+		margin-top:0;
+		border:none;
+		cursor:pointer;
+	}
+	.gvIIIContainer .gvIIIToolTip{
+		width:260px;
+	}
+	.gvIIIContainer .gvIIIToolTip .gvIIIText{
+		background:url(../images/gvIIITTTop.png) no-repeat left top;
+	}
+	.gvIIIContainer .gvIIIToolTip .gvIIIText p{padding:5px;margin:0;}
+	.gvIIIContainer .gvIIIToolTip .gvIIIPointer{
+		background:url(../images/gvIIITTbottomMid.png) no-repeat;
+		height:38px;
+		width:260px;
+	}

@@ -1,0 +1,191 @@
+
+[ 08-10-12 23:22:26 ]
+ RunTime:0.000233s SQL = INSERT INTO think_book (`name`,`sex`,`IP`,`email`,`http`,`detail`) VALUES ('姓名：','姓名：','127.0.0.1','姓名：','姓名：','姓名：')
+[ 08-10-12 23:22:28 ]
+ RunTime:0.000131s SQL = set charset latin1
+[ 08-10-12 23:22:28 ]
+ RunTime:0.000412s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:22:53 ]
+ RunTime:0.000134s SQL = set charset latin1
+[ 08-10-12 23:22:53 ]
+ RunTime:0.037772s SQL = INSERT INTO think_book (`name`,`sex`,`IP`,`email`,`http`,`detail`) VALUES ('姓名','姓名','127.0.0.1','姓名','姓名','姓名')
+[ 08-10-12 23:22:55 ]
+ RunTime:0.000128s SQL = set charset latin1
+[ 08-10-12 23:22:55 ]
+ RunTime:0.000421s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:15 ]
+ RunTime:0.000122s SQL = set charset latin1
+[ 08-10-12 23:23:15 ]
+ RunTime:0.000524s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:17 ]
+ RunTime:0.000126s SQL = set charset latin1
+[ 08-10-12 23:23:17 ]
+ RunTime:0.000417s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:21 ]
+ RunTime:0.001333s SQL = set charset latin1
+[ 08-10-12 23:23:21 ]
+ RunTime:0.000435s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:32 ]
+ RunTime:0.000133s SQL = set charset latin1
+[ 08-10-12 23:23:32 ]
+ RunTime:0.000423s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:33 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:23:33 ]
+ RunTime:0.000412s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:50 ]
+ RunTime:0.000135s SQL = set charset latin1
+[ 08-10-12 23:23:50 ]
+ RunTime:0.000419s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:52 ]
+ RunTime:0.000133s SQL = set charset latin1
+[ 08-10-12 23:23:52 ]
+ RunTime:0.000417s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:53 ]
+ RunTime:0.000216s SQL = set charset latin1
+[ 08-10-12 23:23:53 ]
+ RunTime:0.000479s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:23:56 ]
+ RunTime:0.000143s SQL = set charset latin1
+[ 08-10-12 23:23:56 ]
+ RunTime:0.000453s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:24:04 ]
+ RunTime:0.000134s SQL = set charset latin1
+[ 08-10-12 23:24:04 ]
+ RunTime:0.000479s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:24:07 ]
+ RunTime:0.000134s SQL = set charset latin1
+[ 08-10-12 23:24:07 ]
+ RunTime:0.000431s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:24:48 ]
+ RunTime:0.000216s SQL = set charset latin1
+[ 08-10-12 23:24:48 ]
+ RunTime:0.000414s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:24:49 ]
+ RunTime:0.000131s SQL = set charset latin1
+[ 08-10-12 23:24:49 ]
+ RunTime:0.000433s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:24:49 ]
+ RunTime:0.000131s SQL = set charset latin1
+[ 08-10-12 23:24:49 ]
+ RunTime:0.000415s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:25:36 ]
+ RunTime:0.000134s SQL = set charset latin1
+[ 08-10-12 23:25:36 ]
+ RunTime:0.000473s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:25:37 ]
+ RunTime:0.000146s SQL = set charset latin1
+[ 08-10-12 23:25:37 ]
+ RunTime:0.000438s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:26:32 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:26:32 ]
+ RunTime:0.000441s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:26:33 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:26:33 ]
+ RunTime:0.000414s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:26:33 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:26:33 ]
+ RunTime:0.000514s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:26:34 ]
+ RunTime:0.000332s SQL = set charset latin1
+[ 08-10-12 23:26:34 ]
+ RunTime:0.000413s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:26:35 ]
+ RunTime:0.000132s SQL = set charset latin1
+[ 08-10-12 23:26:35 ]
+ RunTime:0.000444s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:28:01 ]
+ RunTime:0.000123s SQL = set charset latin1
+[ 08-10-12 23:28:01 ]
+ RunTime:0.000427s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:28:02 ]
+ RunTime:0.000131s SQL = set charset latin1
+[ 08-10-12 23:28:02 ]
+ RunTime:0.000418s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:28:23 ]
+ RunTime:0.000129s SQL = set charset latin1
+[ 08-10-12 23:28:23 ]
+ RunTime:0.000416s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:05 ]
+ RunTime:0.000127s SQL = set charset latin1
+[ 08-10-12 23:29:05 ]
+ RunTime:0.000761s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:06 ]
+ RunTime:0.000127s SQL = set charset latin1
+[ 08-10-12 23:29:06 ]
+ RunTime:0.000455s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:12 ]
+ RunTime:0.000132s SQL = set charset latin1
+[ 08-10-12 23:29:12 ]
+ RunTime:0.000407s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:13 ]
+ RunTime:0.000127s SQL = set charset latin1
+[ 08-10-12 23:29:13 ]
+ RunTime:0.000417s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:13 ]
+ RunTime:0.000136s SQL = set charset latin1
+[ 08-10-12 23:29:13 ]
+ RunTime:0.000401s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:29:14 ]
+ RunTime:0.001589s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000433s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000125s SQL = set charset latin1
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000414s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000124s SQL = set charset latin1
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000402s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000122s SQL = set charset latin1
+[ 08-10-12 23:29:14 ]
+ RunTime:0.000407s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:22 ]
+ RunTime:0.000127s SQL = set charset latin1
+[ 08-10-12 23:29:22 ]
+ RunTime:0.000459s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:22 ]
+ RunTime:0.000127s SQL = set charset latin1
+[ 08-10-12 23:29:22 ]
+ RunTime:0.000413s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:29 ]
+ RunTime:0.000129s SQL = set charset latin1
+[ 08-10-12 23:29:29 ]
+ RunTime:0.000419s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:34 ]
+ RunTime:0.000144s SQL = set charset latin1
+[ 08-10-12 23:29:34 ]
+ RunTime:0.000416s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:29:40 ]
+ RunTime:0.000307s SQL = set charset latin1
+[ 08-10-12 23:29:40 ]
+ RunTime:0.000429s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:30:54 ]
+ RunTime:0.000128s SQL = set charset latin1
+[ 08-10-12 23:30:54 ]
+ RunTime:0.024577s SQL = INSERT INTO think_book (`name`,`sex`,`IP`,`email`,`http`,`detail`) VALUES ('姓名','姓名','127.0.0.1','姓名','姓名','姓名')
+[ 08-10-12 23:30:56 ]
+ RunTime:0.000133s SQL = set charset latin1
+[ 08-10-12 23:30:56 ]
+ RunTime:0.000718s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:31:32 ]
+ RunTime:0.000131s SQL = set charset latin1
+[ 08-10-12 23:31:32 ]
+ RunTime:0.028890s SQL = INSERT INTO think_book (`name`,`sex`,`IP`,`email`,`http`,`detail`) VALUES ('邮件','邮件','127.0.0.1','邮件','邮件','邮件')
+[ 08-10-12 23:31:34 ]
+ RunTime:0.000127s SQL = set charset latin1
+[ 08-10-12 23:31:34 ]
+ RunTime:0.000486s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 
+[ 08-10-12 23:31:41 ]
+ RunTime:0.000134s SQL = set charset latin1
+[ 08-10-12 23:31:41 ]
+ RunTime:0.000428s SQL = SELECT book.id AS id,book.name AS name,book.sex AS sex,book.IP AS IP,book.email AS email,book.http AS http,book.detail AS detail FROM (think_book book) GROUP BY book.id 

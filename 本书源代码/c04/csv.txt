@@ -1,0 +1,16 @@
+help_topic_id,name,help_category_id,url
+0,JOIN,25,join
+1,HEX,33,string-functions
+2,REPLACE,33,string-functions
+3,CONTAINS,26,functions-that-test-spatial-relationships-between-geometries
+4,SRID,32,general-geometry-property-functions
+5,CURRENT_TIMESTAMP,28,date-and-time-functions
+6,VARIANCE,14,group-by-functions
+7,VAR_SAMP,14,group-by-functions
+8,CONCAT,33,string-functions
+9,GEOMETRY HIERARCHY,30,gis-geometry-class-hierarchy
+10,CHAR FUNCTION,33,string-functions
+11,DATETIME,20,date-and-time-type-overview
+12,OPEN,35,open
+13,SHOW CREATE PROCEDURE,25,show-create-procedure
+14,INTEGER,20,numeric-type-overview

@@ -1,0 +1,100 @@
+a
+{
+	text-decoration: none;
+}
+img
+{
+	border: none;
+}
+.lienintelliance{
+	color:#F16710;
+	text-decoration:underline;
+}
+.lienintelliance:hover{
+	text-decoration:none;
+}
+.lienagence{
+	color: #666666;
+	text-decoration:none;
+}
+p.piedpage{
+	font-style:italic;
+	margin-bottom:2px;
+	margin-top:2px;
+}
+p.seeothers{
+
+}
+
+#ImageBoxOverlay
+{
+	background-color: #000;
+}
+#ImageBoxCaption
+{
+	background-color: #F4F4EC;
+}
+#ImageBoxContainer
+{
+	width: 250px;
+	height: 250px;
+	background-color: #F4F4EC;
+}
+#ImageBoxCaptionText
+{
+	font-weight: bold;
+	padding-bottom: 5px;
+	font-size: 13px;
+	color: #000;
+}
+#ImageBoxCaptionImages
+{
+	margin: 0;
+}
+#ImageBoxNextImage
+{
+	background-image: url(../images/spacer.gif);
+	background-color: transparent;
+}
+#ImageBoxPrevImage
+{
+	background-image: url(../images/spacer.gif);
+	background-color: transparent;
+}
+#ImageBoxNextImage:hover
+{
+	background-image: url(../images/next_image.jpg);
+	background-repeat:	no-repeat;
+	background-position: right top;
+}
+#ImageBoxPrevImage:hover
+{
+	background-image: url(../images/prev_image.jpg);
+	background-repeat:	no-repeat;
+	background-position: left bottom;
+}
+h2,
+h4,
+p
+{
+	padding-left: 20px;
+}
+#viewjs{
+	color:#222222;
+	font-size:14px;
+	font-height:bold;
+	text-decoration:underline;
+}
+#viewjs:hover{
+	text-decoration:none;
+}
+#Gallery li{
+background-color: #CCCCCC;
+ text-align: center;
+ float: left;
+ width: 100px;
+ height:100px;
+ margin: 3px;
+ padding: 3px;
+ list-style-type: none;	
+}

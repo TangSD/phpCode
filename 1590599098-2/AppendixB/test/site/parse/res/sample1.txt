@@ -1,0 +1,17 @@
+<gi:pre9 oi="ping" />
+<gi:pre0 oi="ping"> xx </gi:pre>
+<gi:pre1 oi="ping"> 
+    <gi:pre2 oi="ping"> 
+        <gi:pre3 oi="ping"/> 
+        sss
+        <gi:number5>
+            kjsdkfjsd
+                <gi:number7 arsy='tree' nose='job' grownup='somewhere'>
+                    kkjkjdf
+                    <gi:gotcha pants='fanny' />xxx
+                </gi:number7>
+            kjkjkj
+        </gi:number5>
+    </gi:pre2>
+
+</gi:pre1>

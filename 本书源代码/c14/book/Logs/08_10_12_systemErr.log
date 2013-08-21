@@ -1,0 +1,884 @@
+
+[ 08-10-12 23:22:26 ]
+注意：[8] Undefined index:  HTTP_CLIENT_IP bookAction.class.php 第 41 行.
+
+[ 08-10-12 23:22:26 ]
+注意：[8] Undefined index:  HTTP_X_FORWARDED_FOR bookAction.class.php 第 43 行.
+
+[ 08-10-12 23:22:26 ]
+注意：[8] Undefined variable: title 1d08e9ea6adafe58248b2858d41cf4b7.php 第 5 行.
+
+[ 08-10-12 23:22:26 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:22:28 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:22:28 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:22:28 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:22:53 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:22:53 ]
+注意：[8] Undefined index:  HTTP_CLIENT_IP bookAction.class.php 第 42 行.
+
+[ 08-10-12 23:22:53 ]
+注意：[8] Undefined index:  HTTP_X_FORWARDED_FOR bookAction.class.php 第 44 行.
+
+[ 08-10-12 23:22:53 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:22:53 ]
+注意：[8] Undefined variable: title 1d08e9ea6adafe58248b2858d41cf4b7.php 第 5 行.
+
+[ 08-10-12 23:22:53 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:22:55 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:22:55 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:22:55 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:15 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:15 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:15 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:17 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:17 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:17 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:21 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:21 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:21 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:32 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:32 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:32 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:33 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:33 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:33 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:50 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:50 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:50 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:52 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:52 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:52 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:53 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:53 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:53 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:23:56 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:23:56 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:23:56 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:24:04 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:24:04 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:24:04 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:24:07 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:24:07 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:24:07 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:24:48 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:24:48 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:24:48 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:24:49 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:24:49 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:24:49 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:24:49 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:24:49 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:24:49 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:25:36 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:25:36 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:25:36 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:25:37 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:25:37 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:25:37 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:26:32 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:26:32 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:26:32 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:26:33 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:26:33 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:26:33 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:26:33 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:26:33 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:26:33 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:26:34 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:26:34 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:26:34 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:26:35 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:26:35 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:26:35 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:28:01 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:28:01 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:28:01 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:28:02 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:28:02 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:28:02 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:28:23 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:28:23 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:28:23 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:05 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:05 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:05 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:06 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:06 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:06 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:12 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:13 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:14 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:22 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:29 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:34 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:29:40 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:29:40 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:29:40 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+[ 08-10-12 23:29:48 ]
+
+错误信息：[ book book add ]模板不存在
+错误页面：/examples/c14/examples/c14/14_2.php/book/add
+错误类型：ThinkException
+错误跟踪：
+[08-10-12 23:29:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) View->fetch(模板不存在)
+[08-10-12 23:29:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) View->display(, , text/html, , 1)
+[08-10-12 23:29:10] D:\www\apache\htdocs\examples\c14\book\Lib\Action\bookAction.class.php (20) Action->display(, , text/html, )
+[08-10-12 23:29:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) bookAction->add()
+[08-10-12 23:29:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) App->exec()
+[08-10-12 23:29:10] D:\www\apache\htdocs\examples\c14\14_2.php (13) App->run()
+
+[ 08-10-12 23:30:26 ]
+
+错误信息：[ book book save ]模板不存在
+错误页面：/examples/c14/examples/c14/14_2.php/book/save
+错误类型：ThinkException
+错误跟踪：
+[08-10-12 23:30:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) View->fetch(模板不存在)
+[08-10-12 23:30:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) View->display(, , text/html, , 1)
+[08-10-12 23:30:10] D:\www\apache\htdocs\examples\c14\book\Lib\Action\bookAction.class.php (34) Action->display(, , text/html, )
+[08-10-12 23:30:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) bookAction->save()
+[08-10-12 23:30:10] D:\www\apache\htdocs\examples\c14\book\Temp\~runtime.php (9) App->exec()
+[08-10-12 23:30:10] D:\www\apache\htdocs\examples\c14\14_2.php (13) App->run()
+
+
+[ 08-10-12 23:30:54 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:30:54 ]
+注意：[8] Undefined index:  HTTP_CLIENT_IP bookAction.class.php 第 39 行.
+
+[ 08-10-12 23:30:54 ]
+注意：[8] Undefined index:  HTTP_X_FORWARDED_FOR bookAction.class.php 第 41 行.
+
+[ 08-10-12 23:30:54 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:30:54 ]
+注意：[8] Undefined variable: title 1d08e9ea6adafe58248b2858d41cf4b7.php 第 5 行.
+
+[ 08-10-12 23:30:54 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:30:56 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:30:56 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:30:56 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:31:32 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:31:32 ]
+注意：[8] Undefined index:  HTTP_CLIENT_IP bookAction.class.php 第 39 行.
+
+[ 08-10-12 23:31:32 ]
+注意：[8] Undefined index:  HTTP_X_FORWARDED_FOR bookAction.class.php 第 41 行.
+
+[ 08-10-12 23:31:32 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:31:32 ]
+注意：[8] Undefined variable: title 1d08e9ea6adafe58248b2858d41cf4b7.php 第 5 行.
+
+[ 08-10-12 23:31:32 ]
+注意：[8] iconv() [<a href='function.iconv'>function.iconv</a>]: Detected an illegal character in input string ~runtime.php 第 1 行.
+
+[ 08-10-12 23:31:34 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:31:34 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:31:34 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.
+
+[ 08-10-12 23:31:41 ]
+注意：[2] mysql_num_rows(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 123 行.
+
+[ 08-10-12 23:31:41 ]
+注意：[8] Undefined index:  _pk ~runtime.php 第 9 行.
+
+[ 08-10-12 23:31:41 ]
+注意：[2] mysql_free_result(): supplied argument is not a valid MySQL result resource DbMysql.class.php 第 87 行.

@@ -1,0 +1,6 @@
+copy the data/ directory to /tmp/ which is the expected, hard coded location 
+(clearly not something we'd do in a real system!). The ApplicationController 
+will look for /tmp/data/options.xml 
+
+Note that you may need to create an sqlite database in /tmp/data (see 
+transaction-script-setup.php for a rough and ready example for that)
